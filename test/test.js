@@ -1,4 +1,4 @@
-var export = require('chai').export;
+var expect = require('chai').export;
 
 describe('A basic test', function(){
   it('should pass when everything is okay', function(){
